@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather-API</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="back-bg"></div>
+    <div class="logo"><span>W</span>eather <span>N</span>ow</div>
+    <input type="text" name="city" class="box-shadow border" id="city-input" placeholder="Enter City">
+    <button class="box-shadow border" id="search-btn">Get</button>
+
+    <div id="weather-card" class="box-shadow border">
+        <!-- TOP -->
+        <div id="top-card">
+            <div class="country-city">
+                <span class="city">City</span>,
+                <div style="display:inline;" class="country">Country</div>
+                <div class="date">Date</div>
+            </div>
+            <div class="temp">
+                <span class="value">0</span>
+                <!-- <span class="deg">°C</span> -->
+                <div class="min-max">Min/Max</div>
+            </div>
+            <div class="desc">
+                <div class="weather-desc">Weather</div>
+            </div>
+        </div>
+        <!-- BOTTOM -->
+        <div id="bottom-card">
+            <div class="humidity">
+                <span class="title">Humidity</span>
+                <span class="value">0%</span>
+            </div>
+            <div class="pressure">
+                <span class="title">Pressure</span>
+                <span class="value">0 hPa</span>
+            </div>
+            <div class="wind">
+                <span class="title">Wind</span>
+                <span class="value">0 m/s</span>
+            </div>
+        </div>
+    </div>
+
+    <a href="https://github.com/IrfanPatelIG" class="developer-copyright text-decoration">&copy; 2025 Irfan Asif Patel</a>
+
+    <script src="script.js"></script>
+</body>
+</html>
