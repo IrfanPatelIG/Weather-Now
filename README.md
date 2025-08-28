@@ -15,11 +15,22 @@
 - **Weather API**  
 
 ## 📸 Screenshots  
-![Demo](ss/Weather%Now$1.jpg)
-![Demo](ss/Weather%Now$2.jpg)
-![Demo](ss/Weather%Now$3.jpg)
-![Error Handling](ss/Weather%Now%4.1.jpg)
-![Error Handling](ss/Weather%Now%4.2.jpg)
+
+### 🌦️ Main Screens
+<p align="center">
+  <img src="ss/Weather-Now-1.jpg" alt="Demo" width="45%"/>
+  <img src="ss/Weather-Now-2.jpg" alt="Demo" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="ss/Weather-Now-3.jpg" alt="Mobile View" width="90%"/>
+</p>
+
+### ⚠️ Error Handling
+<p align="center">
+  <img src="ss/Weather-Now-4.1.jpg" alt="Error Example 1" width="45%"/>
+  <img src="ss/Weather-Now-4.2.jpg" alt="Error Example 2" width="45%"/>
+</p>
 
 ## 📂 Installation & Usage  
 1. Clone the repository:  
