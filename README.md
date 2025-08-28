@@ -14,8 +14,12 @@
 - **JavaScript (ES6+)**  
 - **Weather API**  
 
-## 📸 Preview  
-(Add a screenshot or demo gif here)  
+## 📸 Screenshots  
+![Demo](ss/Weather%Now$1.jpg)
+![Demo](ss/Weather%Now$2.jpg)
+![Demo](ss/Weather%Now$3.jpg)
+![Error Handling](ss/Weather%Now%4.1.jpg)
+![Error Handling](ss/Weather%Now%4.2.jpg)
 
 ## 📂 Installation & Usage  
 1. Clone the repository:  
